@@ -1,11 +1,11 @@
-## Javascript is weird
+# Javascript is weird
 
-# Check code
+## Check code
 
-#Clone Rep
+## Clone Rep
 
-# Open Terminal
+## Open Terminal
 
-# Type 'node banana.js'
+## Type 'node banana.js'
 
-# :D
+## :D
